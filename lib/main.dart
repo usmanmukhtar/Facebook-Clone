@@ -45,7 +45,6 @@ class _FacebookMainState extends State<FacebookMain> {
           children: pages,
         ),
         bottomNavigationBar: Container(
-          margin: EdgeInsets.only(bottom: 20),
           child: new TabBar(
             tabs: [
               Tab(
